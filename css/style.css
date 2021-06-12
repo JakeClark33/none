@@ -46,10 +46,18 @@ header nav {
     text-align: center;
     background-color: slategray;
     border-top: thin;
+    width: 350px;
   }
   .profile {
-    margin: 0 auto 20px auto;
-    background: slategrey;
+    margin: 100px 0px auto;
+    background: rgb(41, 132, 223);
     color: white;
     flex: 1;
+    font-size: 24px;
+  }
+  .text {
+      margin-left: 10px;
+      margin-right: 10px;
+      font-family: cursive;
+      font-size: 18px;
   }
