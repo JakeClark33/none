@@ -7,14 +7,16 @@ header {
     height: 485px;
     padding-bottom: 357px;
 }
+header img {
+    font-size: 0%;
+}
 
 header h1 { 
     text-align: center;
-    text-decoration-color:yellow;
 }
-header h1 a {
-    color: white;
-    font-size: larger;
+header h1  {
+    color: rgb(245, 191, 14);
+    font-size: 48px;
 }
 header nav {
     margin: 7px 0;
@@ -34,7 +36,20 @@ header nav {
   }
   
   header nav ul li a:hover {
-    background: var(white);
+    background: red;
     border-radius: 15px;
     text-shadow: none;
+  }
+  .profile {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: slategray;
+    border-top: thin;
+  }
+  .profile {
+    margin: 0 auto 20px auto;
+    background: slategrey;
+    color: white;
+    flex: 1;
   }
