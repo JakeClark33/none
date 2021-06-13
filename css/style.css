@@ -13,9 +13,8 @@ header img {
 
 header h1 { 
     text-align: center;
-}
-header h1  {
     font-size: 48px;
+    color:oldlace;
 }
 header nav {
     margin: 7px 0;
@@ -101,7 +100,19 @@ header nav {
     background-color:midnightblue;
     border-top: thin;
     width: 1266px;
+    color:oldlace;
+    font-size: 48px;
   }
+  .png{
+      margin: 100px 100px 100px 100px;
+      height: 390px;
+      width: 820px;
+  }
+  .robots {
+    margin: 0px 0px 0px 348px;
+    height: 300px;
+    width: 450px;
+}
   .flex-container2 {
     display:flex;
     flex-direction:row;
