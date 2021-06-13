@@ -45,7 +45,7 @@ header nav {
     text-shadow: none;
   }
   nav {
-      scroll-behavior: smooth;
+      scroll-behavior:smooth;
   }
   .profile {
     margin: 100px 100px auto 0;
@@ -114,8 +114,9 @@ header nav {
     width: 1266px;
     font-size: 48px;
   }
+  
   .png{
-      margin: 100px 100px 100px 100px;
+    margin: 100px 0px -11px 0px;
       height: 390px;
       width: 820px;
   }
